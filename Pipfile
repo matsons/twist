@@ -5,10 +5,15 @@ url = "https://pypi.org/simple"
 
 [packages]
 flask = "*"
+<<<<<<< HEAD
 tests = "*"
 
 [dev-packages]
 pytest = "*"
+=======
+
+[dev-packages]
+>>>>>>> 1c5c71ba470327e74c98247746a21e860b779f12
 
 [requires]
 python_version = "3.6"
