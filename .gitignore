@@ -1,5 +1,5 @@
 *.sqlite
-*.pytest_cache/
+.pytest_cache/
 Pipfile.lock
 .cache/
 *.pyc
