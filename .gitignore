@@ -1,0 +1,7 @@
+*.sqlite
+*.pytest_cache/
+Pipfile.lock
+.cache/
+*.pyc
+*.pyo
+.secret
